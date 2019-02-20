@@ -1,8 +1,10 @@
 # PruebaCerticamara
 Prueba técnica Certicamara
-Daniel Felipe Lozano Munevar
-CC 1076624112
-Desarrollador Master
+
+-Daniel Felipe Lozano Munevar
+-CC 1076624112
+-Desarrollador Master
+
 
 Instrucciones Ejecución Pruebas Certicamara WEB
 
