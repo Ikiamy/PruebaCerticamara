@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8"></meta>
+    <title>Prueba Certicamara</title>
+
+    <script type="text/javascript" src="js/prueba.js"></script>
+    <script type="text/javascript" src="js/jquery-3.3.1.min.js"></script>
+
+</head>
+<body>
+    <h1>Controlador de Vehículo</h1>
+    <table>
+        <tr>
+            <td><h2>Tamaño de Superficie</h2></td>
+        </tr>
+        <tr>
+            <td>M: <p id="M_label">N/A</p></td>
+            <td>N:<p id="N_label">N/A</p></td>
+        </tr>
+    </table>
+
+    <table>
+        <tr>
+            <td><h2>Inicializar Superficie</h2></td>
+        </tr>
+        <tr>
+            <td>M: <input type="number" id="M_input"></input></td>
+            <td>N: <input type="number" id="N_input"></input></td>
+            <td><input type="submit" value="Inicializar" onclick="inicializar();"></td>
+        </tr>
+    </table>
+
+    <table>
+        <tr>
+            <td><h2>Mover vehículo</h2></td>
+        </tr>
+        <tr>
+            <td>Comando(s): <input type="text" id="commands"></td>
+            <td><input type="submit" value="Mover" onclick="mover();"></input></td>
+        </tr>
+        <tr>
+            <td>Movimientos:<p id="hist_label">N/A</p></td>
+        </tr>
+    </table>
+
+    <table>
+        <tr>
+            <td><h2>Obtener Coordenadas</h2></td>
+        </tr>
+        <tr>
+            <td>M: <p id="X_label">N/A</p></td>
+            <td>N:<p id="Y_label">N/A</p></td>
+        </tr>
+        <td><input type="submit" value="Obtener" onclick="obtener();"></input></td>
+    </table>
+
+
+</body>
+</html>

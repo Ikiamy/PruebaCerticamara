@@ -1,0 +1,22 @@
+WARNING - 10:53:46: First conversion pass
+ERROR - 10:53:46: org.xml.sax.SAXParseExceptionpublicId: /PruebaCerticamara/src/main/java/com/certicamara/test/controller/RESTController.java; systemId: file:///PruebaCerticamara/src/main/java/com/certicamara/test/controller/RESTController.java; lineNumber: 1; columnNumber: 1; El contenido no está permitido en el prólogo.
+ERROR - 10:53:46: org.xml.sax.SAXParseExceptionpublicId: /PruebaCerticamara/src/main/java/com/certicamara/test/controller/RESTController.java; systemId: file:///PruebaCerticamara/src/main/java/com/certicamara/test/controller/RESTController.java; lineNumber: 1; columnNumber: 1; El contenido no está permitido en el prólogo.
+WARNING - 10:54:07: First conversion pass
+ERROR - 10:54:07: org.xml.sax.SAXParseExceptionpublicId: /PruebaCerticamara/src/main/java/com/certicamara/test/controller/RESTController.java; systemId: file:///PruebaCerticamara/src/main/java/com/certicamara/test/controller/RESTController.java; lineNumber: 1; columnNumber: 1; El contenido no está permitido en el prólogo.
+ERROR - 10:54:07: org.xml.sax.SAXParseExceptionpublicId: /PruebaCerticamara/src/main/java/com/certicamara/test/controller/RESTController.java; systemId: file:///PruebaCerticamara/src/main/java/com/certicamara/test/controller/RESTController.java; lineNumber: 1; columnNumber: 1; El contenido no está permitido en el prólogo.
+WARNING - 10:55:07: Convert com.certicamara.test
+WARNING - 10:55:07: First conversion pass
+ERROR - 10:55:07: org.xml.sax.SAXParseExceptionpublicId: /PruebaCerticamara/src/main/java/com/certicamara/test/controller/RESTController.java; systemId: file:///PruebaCerticamara/src/main/java/com/certicamara/test/controller/RESTController.java; lineNumber: 1; columnNumber: 1; El contenido no está permitido en el prólogo.
+ERROR - 10:55:07: org.xml.sax.SAXParseExceptionpublicId: /PruebaCerticamara/src/main/java/com/certicamara/test/controller/RESTController.java; systemId: file:///PruebaCerticamara/src/main/java/com/certicamara/test/controller/RESTController.java; lineNumber: 1; columnNumber: 1; El contenido no está permitido en el prólogo.
+WARNING - 10:55:26: Convert com.certicamara.test
+WARNING - 10:55:26: First conversion pass
+ERROR - 10:55:26: org.xml.sax.SAXParseExceptionpublicId: /PruebaCerticamara/src/main/java/com/certicamara/test/controller/RESTController.java; systemId: file:///PruebaCerticamara/src/main/java/com/certicamara/test/controller/RESTController.java; lineNumber: 1; columnNumber: 1; El contenido no está permitido en el prólogo.
+ERROR - 10:55:26: org.xml.sax.SAXParseExceptionpublicId: /PruebaCerticamara/src/main/java/com/certicamara/test/controller/RESTController.java; systemId: file:///PruebaCerticamara/src/main/java/com/certicamara/test/controller/RESTController.java; lineNumber: 1; columnNumber: 1; El contenido no está permitido en el prólogo.
+WARNING - 10:56:54: Convert com.certicamara.test
+WARNING - 10:56:54: First conversion pass
+ERROR - 10:56:54: org.xml.sax.SAXParseExceptionpublicId: /PruebaCerticamara/src/main/java/com/certicamara/test/controller/RESTController.java; systemId: file:///PruebaCerticamara/src/main/java/com/certicamara/test/controller/RESTController.java; lineNumber: 1; columnNumber: 1; El contenido no está permitido en el prólogo.
+ERROR - 10:56:54: org.xml.sax.SAXParseExceptionpublicId: /PruebaCerticamara/src/main/java/com/certicamara/test/controller/RESTController.java; systemId: file:///PruebaCerticamara/src/main/java/com/certicamara/test/controller/RESTController.java; lineNumber: 1; columnNumber: 1; El contenido no está permitido en el prólogo.
+WARNING - 10:57:37: Convert com.certicamara.test
+WARNING - 10:57:37: First conversion pass
+ERROR - 10:57:37: org.xml.sax.SAXParseExceptionpublicId: /PruebaCerticamara/src/main/java/com/certicamara/test/validators/OrderValidator.java; systemId: file:///PruebaCerticamara/src/main/java/com/certicamara/test/validators/OrderValidator.java; lineNumber: 1; columnNumber: 1; El contenido no está permitido en el prólogo.
+ERROR - 10:57:37: org.xml.sax.SAXParseExceptionpublicId: /PruebaCerticamara/src/main/java/com/certicamara/test/validators/OrderValidator.java; systemId: file:///PruebaCerticamara/src/main/java/com/certicamara/test/validators/OrderValidator.java; lineNumber: 1; columnNumber: 1; El contenido no está permitido en el prólogo.
