@@ -8,7 +8,7 @@ Prueba técnica Certicamara
 
 Instrucciones Ejecución Pruebas Certicamara WEB
 
-1. Descargar el proyecto en la siguiente ruta
+1. Descargar el proyecto
 2. Ubicarlo en la ruta del workspace
 3. Importarlo en un IDE de Eclipse clic derecho en el explorador de proyectos->import->Maven->Existing Maven Project
 4. Asegurarse de usar un JDK 1.8
